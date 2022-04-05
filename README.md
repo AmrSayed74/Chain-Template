@@ -20,7 +20,7 @@ HTML, CSS, And Aos Animation Library
 
 
 ## Screenshot For Design
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 ![screencapture-127-0-0-1-5500-index-html-2022-04-05-02_39_18](https://user-images.githubusercontent.com/81320285/161655919-15e5922a-b78c-4d1f-88b4-7fc70f285294.png)
 
 
