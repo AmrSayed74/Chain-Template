@@ -7,10 +7,11 @@ HTML, CSS, And Aos Animation Library
 
 
 ## Features
-
-- Responsive Design 
-- Animated Design
-- Live Previews
+<details>
+  - Responsive Design 
+  - Animated Design
+  - Live Previews
+</details>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -24,3 +25,4 @@ HTML, CSS, And Aos Animation Library
 ![screencapture-127-0-0-1-5500-index-html-2022-04-05-02_39_18](https://user-images.githubusercontent.com/81320285/161655919-15e5922a-b78c-4d1f-88b4-7fc70f285294.png)
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
