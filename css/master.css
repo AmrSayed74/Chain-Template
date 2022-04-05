@@ -394,6 +394,7 @@ background: var(--mainColor);
   box-shadow: 0px 0px 15px rgb(0 0 0 / 15%);
   border-top-right-radius: 3.125rem;
   transition: var(--mainTransition);
+  z-index: 3;
 }
 .services .container section .box:nth-child(1){
   height: 300px;
