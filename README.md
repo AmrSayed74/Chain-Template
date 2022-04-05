@@ -8,9 +8,11 @@ HTML, CSS, And Aos Animation Library
 
 ## Features
 <details>
-  - Responsive Design 
-  - Animated Design
-  - Live Previews
+  <ul>
+    <li>- Responsive Design</li>
+    <li>- Animated Design</li>
+    <li>- Live Previews</li>
+  </ul>
 </details>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
