@@ -766,13 +766,15 @@ background: var(--mainColor);
   overflow: hidden;
   height: 700px;
 }
-.pricing .container section .box:nth-child(2) {
+@media (min-width: 1200px) {
+  .pricing .container section .box:nth-child(2) {
   height: 750px;
   transform: translateY(-25px);
   -webkit-transform: translateY(-25px);
   -moz-transform: translateY(-25px);
   -ms-transform: translateY(-25px);
   -o-transform: translateY(-25px);
+  }
 }
 @media (max-width:676px) {
   .pricing .container section .box:nth-child(2) {
@@ -1031,6 +1033,11 @@ footer section .content p {
 @media (min-width: 10px) {
   .copy-right {
     margin-top: 30px;
+  }
+}
+@media (max-width: 500px) {
+  .copy-right p {
+    font-size: 14px;
   }
 }
 /* End Footer */
